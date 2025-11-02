@@ -25,5 +25,3 @@ This project focuses on creating smooth, interactive, and immersive animations t
 | **GSAP ScrollTrigger** | Scroll-based animation management |
 
 
-## 📂 Folder Structure
-
