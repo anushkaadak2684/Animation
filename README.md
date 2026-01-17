@@ -1,4 +1,4 @@
-#  Wizard Landing Page
+#  WizardZ Landing Page
 
 A visually captivating **landing page** that brings magic to life using **GSAP (GreenSock Animation Platform)** and **ScrollTrigger**.  
 This project focuses on creating smooth, interactive, and immersive animations that respond dynamically to user scroll and interactions.
@@ -7,10 +7,10 @@ This project focuses on creating smooth, interactive, and immersive animations t
 
 ## ✨ Features
 
--  **Smooth Animations** – Crafted using GSAP for professional-grade motion.
--  **Scroll-Triggered Effects** – Implemented with ScrollTrigger for scroll-based animation control.
--  **Responsive Design** – Works across all screen sizes (desktop, tablet, mobile).
--  **Modern UI/UX** – Clean and minimal interface focused on the animation experience.
+-  **Smooth Animations** - Crafted using GSAP for professional-grade motion.
+-  **Scroll-Triggered Effects** - Implemented with ScrollTrigger for scroll-based animation control.
+-  **Responsive Design** - Works across all screen sizes (desktop, tablet, mobile).
+-  **Modern UI/UX** - Clean and minimal interface focused on the animation experience.
 
 ---
 
